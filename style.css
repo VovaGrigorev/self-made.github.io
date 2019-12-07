@@ -134,8 +134,8 @@ ion-icon {
         display: none;
      }
      .icons {
-     display: flex;
-     justify-content: center;
+     margin-left: 68px;
+     
 }
     .container_img {
         background-image: url(./p2.png);
