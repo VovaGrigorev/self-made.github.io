@@ -132,7 +132,10 @@ ion-icon {
     }
     .lang {
         display: none;
-    }
+     }
+     .icons {
+     margin-left: 30%;
+}
     .container_img {
         background-image: url(./p2.png);
         width: 70vw;
