@@ -26,8 +26,8 @@ nav a {
 }
 .container_img {
     background-image: url(./p1.png);
-    width: 85vw;
-    height: 70vh;
+    width: 616px;
+    height: 315px;
     background-size: cover;
     margin-bottom: 10%;
 }
