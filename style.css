@@ -8,6 +8,9 @@ body {
     display: flex;
     justify-content: space-between!important;
 }
+nav a {
+    text-decoration: none;
+}
 .container {
     margin-left: 150px;
     margin-right: 150px;
